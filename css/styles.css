@@ -558,6 +558,10 @@ progress {
   }
 }
 
+.dropdown:hover>.dropdown-menu {
+  display: block;
+}
+
 .list-unstyled {
   padding-left: 0;
   list-style: none;
