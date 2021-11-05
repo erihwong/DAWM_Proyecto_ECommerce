@@ -11289,5 +11289,18 @@ textarea.form-control-lg {
 
   .d-print-none {
     display: none !important;
+  } 
+
+  .item{ 
+    color: white;
   }
+
+  .grid{ 
+    display: inline-block;
+  }
+
+  .boton{
+    padding: 0;
+  }
+
 }
